@@ -52,8 +52,7 @@ pipeline {
                     bat 'taskkill /F /IM node.exe'​
                 }​
             }​
-        }
-       
+        }   
     }
 
     post {
